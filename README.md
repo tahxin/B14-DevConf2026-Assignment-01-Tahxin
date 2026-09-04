@@ -7,7 +7,7 @@ The project presents a fictional developer conference, **Dev Conf 2026**, with a
 ## 🌐 Live Demo
 
 **Live Website:**
-https://tahxin.github.io/B14-FIFAWorldCup2026-A01/
+https://tahxin.github.io/B14-DevConf2026-Assignment-01-Tahxin/
 
 **Repository:**
 https://github.com/tahxin/B14-DevConf2026-Assignment-01-Tahxin
